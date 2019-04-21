@@ -1,3 +1,3 @@
-# rumanti.js
+# rumanti
 Please enjoy
 Just it
